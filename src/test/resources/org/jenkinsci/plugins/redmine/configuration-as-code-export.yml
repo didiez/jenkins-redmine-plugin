@@ -1,0 +1,9 @@
+websites:
+- baseUrl: "http://localhost/redmine/"
+  name: "redmine"
+  referencingKeywords: "*,refs,references,IssueID,fixes,closes"
+- baseUrl: "http://localhost/bluemine/"
+  name: "bluemine"
+  referencingKeywords: "*"
+- baseUrl: "http://localhost/greenmine/"
+  name: "greenmine"

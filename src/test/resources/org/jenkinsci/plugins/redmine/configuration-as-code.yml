@@ -1,0 +1,11 @@
+unclassified:
+    redmine:
+        websites:
+        - name: redmine
+          baseUrl: http://localhost/redmine/
+          referencingKeywords: "*,refs,references,IssueID,fixes,closes"
+        - name: bluemine
+          baseUrl: http://localhost/bluemine/
+          referencingKeywords: "*"
+        - name: greenmine
+          baseUrl: http://localhost/greenmine/
