@@ -55,3 +55,12 @@ job('example') {
   }
 }
 ```
+
+## How to buid from sources
+
+For all UNIX-based platforms (including MacOS) simply run:
+```
+./mvnw clean install
+```
+
+The plugin, ready to be installed in Jenkins, could be found at `target/redmine.hpi`.
